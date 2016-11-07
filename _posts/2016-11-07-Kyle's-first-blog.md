@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Emotions survey and an introduction to posting blogs on GitHub (CSS)</td>
+    <td>An introduction to posting blogs on GitHub (CSS)</td>
     <td>Date</td>
     <td>07/11/16</td>
   </tr>
@@ -41,28 +41,22 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
-Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
-Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don't write about what you were taught, focus on what you have learned.</td>
+    <td>In the lesson, I learned plenty of things by trying new techniques, finding other solutions to fix my problems rather than using the solutions that weren't working for me. 
+I also thought of different ways to why my only solution may not be working and fixing that problem permanently, before that looking for all solutions, even looking it up on the internet or in previous documents if necessary.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
-Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
-Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don’t write about what you were taught, focus on what you have learned.</td>
+    <td>One particular habit that happens frequently with me is overthinking. If I can’t find a solution after a couple of minutes, I immediately overthink the situation, looking for complicated answers that would never work in a million years. 
+A few times, I have overcome it, finally coming to a conclusion and know what I had to do to get my solution.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
-Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
-Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don’t write about what you were taught, focus on what you have learned.</td>
+    <td>To improve my work in future lessons, I will consistently try to remember to always look for more simpler solutions, some that could have a better chance at solving my problems than the results I had previously come up with and was struggling with.
+I will also, if necessary, refer back to previous pieces of work to find possible solutions or useful information there.</td>
   </tr>
 </table>
 
