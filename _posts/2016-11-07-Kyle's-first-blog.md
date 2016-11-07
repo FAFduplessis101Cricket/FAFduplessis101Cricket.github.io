@@ -1,5 +1,5 @@
 ---
-title: Kyle's first blog
+title: Kyle first blog
 layout: post
 author: kyle.du-plessis
 permalink: /kyle's-first-blog/
