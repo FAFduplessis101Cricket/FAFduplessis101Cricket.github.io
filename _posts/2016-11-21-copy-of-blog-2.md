@@ -1,8 +1,8 @@
 ---
-title: copy of file 2
+title: copy of blog 2
 layout: post
 author: kyle.du-plessis
-permalink: /copy-of-file-2/
+permalink: /copy-of-blog-2/
 source-id: 1fFDoz9SGaBY5q6se0sYeoEWvhssOerS5E_RGagFJoHw
 published: true
 ---
