@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Investigating techniques towards upgrading text styles - and others - on JS Bin.</td>
+    <td>Using new technique to replace Gabriel.</td>
     <td></td>
-    <td>14/11/16</td>
+    <td>21/11/16</td>
   </tr>
 </table>
 
