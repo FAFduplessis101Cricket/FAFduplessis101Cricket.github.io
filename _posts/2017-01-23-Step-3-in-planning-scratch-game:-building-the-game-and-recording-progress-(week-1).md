@@ -1,5 +1,5 @@
 ---
-title: Step 3 in planning scratch game: building the game and recording progress (week 1)
+title: Step 3 in planning game
 layout: post
 author: kyle.du-plessis
 permalink: /step-3-in-planning-scratch-game:-building-the-game-and-recording-progress-(week-1)/
