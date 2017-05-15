@@ -2,7 +2,7 @@
 title: Step 3 in planning game
 layout: post
 author: kyle.du-plessis
-permalink: /step-3-in-planning-scratch-game:-building-the-game-and-recording-progress-(week-1)/
+permalink: /step-3-in-planning-scratch-game-building-the-game-and-recording-progress-week-1/
 source-id: 10X4ft_79Db2YLnaSp8QwgjgjUFGcSwomdk_kbkLhA5Q
 published: true
 ---
